@@ -1,0 +1,2 @@
+# zSad
+custom servers
